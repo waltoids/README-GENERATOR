@@ -22,6 +22,7 @@ Run: npm install
 To start program run: node index.js and answer the following prompts.
 
 ## License:
+
 For more info about the license, follow the link below.
 
 [mit](https://opensource.org/licenses/mit)
@@ -30,10 +31,11 @@ For more info about the license, follow the link below.
 Pulls and forks welcomed.
 
 ## Tests:
-running node index.js and looking for errors.
+Running node index.js and looking for errors.
 
 ## Questions?:
 
-   Contact me at: waltoids@yahoo.com for questions.
+(https://avatars.githubusercontent.com/waltoids)
 
+Contact me at: waltoids@yahoo.com for questions.
 
