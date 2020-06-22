@@ -1,6 +1,20 @@
 function generateMarkdown(data) {
+  
+  const {
+    title,
+    description,
+    installation,
+    usage,
+    license,
+    contributing,
+    tests,
+    username,
+    email
+  } = data;
+
+
   return `
-# ${data.title}
+# ${title}
 
 # Table of Contents
 - [Description](#description)
@@ -12,31 +26,33 @@ function generateMarkdown(data) {
 - [Questions](#questions)
 
 ## Description:
-![License](https://img.shields.io/badge/License-${data.license}-brightgreen.svg)
+![License](https://img.shields.io/badge/License-${license}-brightgreen.svg)
 
-${data.description}
+${description}
 
 ## Installation:
-${data.installation}
+${installation}
 
 ## Usage:
-${data.usage}
+${usage}
 
 ## License:
 
-    For more info about the license, follow the link below.
-    [License](https://opensource.org/licenses/${data.license})
+For more info about the license, follow the link below.
+
+[${license}](https://opensource.org/licenses/${license})
 
 ## Contributing:
-${data.contributing}
+${contributing}
 
 ## Tests:
-${data.tests}
+${tests}
 
 ## Questions?:
 
-   Contact me at: ${data.email} for questions.
+![Image of ${username}](https://avatars.githubusercontent.com/${username})
 
+Contact me at: ${email} for questions.
 
 `;
 }
