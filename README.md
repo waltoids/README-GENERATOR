@@ -35,7 +35,7 @@ Running node index.js and looking for errors.
 
 ## Questions?:
 
-![Image of waltoids](https://avatars.githubusercontent.com/waltoids.png)
+![Image of waltoids](https://avatars.githubusercontent.com/waltoids)
 
 Contact me at: waltoids@yahoo.com for questions.
 
