@@ -1,5 +1,5 @@
 
-# README-Generator
+# React-Employee-Directory
 
 # Table of Contents
 - [Description](#description)
@@ -11,27 +11,27 @@
 - [Questions](#questions)
 
 ## Description:
-![License](https://img.shields.io/badge/License-mit-brightgreen.svg)
+![License](https://img.shields.io/badge/License-unlicense-brightgreen.svg)
 
-A program to generate a README.md file from user input.
+A employee directory app that can sort and search using React
 
 ## Installation:
-Run: npm install
+npm install
 
 ## Usage:
-To start program run: node index.js and answer the following prompts.
+npm start to run
 
 ## License:
 
 For more info about the license, follow the link below.
 
-[mit](https://opensource.org/licenses/mit)
+[unlicense](https://opensource.org/licenses/unlicense)
 
 ## Contributing:
-Pulls and forks welcomed.
+Pulls welcomed. For changes conctact me for what you would like to change.
 
 ## Tests:
-Running node index.js and looking for errors.
+
 
 ## Questions?:
 
